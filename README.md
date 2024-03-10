@@ -1,1 +1,11 @@
-# Analytics_Tableau
+**Project Title:** Enhancing E-Commerce Strategies through Data Analytics
+
+**Problem Statements:** In an e-commerce landscape where customer preferences, purchasing behavior, and efficient order fulfillment play crucial roles, your analytical prowess is vital. The task is to dissect these datasets to uncover patterns and insights that could revolutionize e-commerce strategies, improve customer engagement, and drive sales growth.
+
+**Objectives:** Using Tableau's robust capabilities to craft a compelling narrative from the provided datasets. This task will encompass thorough data preparation, intelligent data modeling, and the skillful application of calculated fields and Tableau functions for sophisticated analysis. The ultimate aim is to construct an interactive and intuitive dashboard in Tableau that showcases your key discoveries, offering concise, actionable insights into the optimization of hotel operations and performance.
+
+**Data source:** Dataset two pivotal datasets: 'Ecommerce Orders' and 'Customer Profiles'. The 'Ecommerce Orders' dataset offers detailed insights into customer orders, including products purchased, quantities, unit prices, order dates, and shipping costs. Meanwhile, the 'Customer Profiles' dataset provides rich information on customer demographics, such as email, country, membership type, and spending history.
+
+**Data Cleaning and Preprocessing:** Imported and cleaned. Data quality was good, had only missing values in some column and filled with appropriate values. Segmented customers based on their 'Total spent' into categories like 'High Spender', 'Medium Spender', 'Low Spender'. Define the thresholds for these categories using two different threshold values.
+
+**Insights:** The analysis revealed valuable insights into customer behavior, product performance, and operational trends. Key findings include the identification of high-value customer segments, top-performing products, and opportunities for customer retention. Seasonal trends and international market potential were also explored, providing a foundation for strategic decision-making. The communication log analysis highlighted areas for improvement in customer communication strategies, while membership program effectiveness and geographical performance offered insights into targeted marketing efforts.
